@@ -1,0 +1,29 @@
+﻿BENUTZERLISTE
+
+1. PRIMÄRE NUTZER (Main Target Group)
+- Alltags-Organisierer
+  Nutzen die App täglich oder fast täglich, brauchen schnelle Erfassung und verlässliche Erinnerungen.
+- Strukturierte Listen-Nutzer
+  Arbeiten gern mit einfachen Listen und Kategorien, möchten Übersicht ohne Komplexität.
+- Deadline-/Reminder-Nutzer
+  Nutzen die App vor allem für „Erinnere mich rechtzeitig“, weniger für grosse Strukturen.
+
+2. SEKUNDÄRE NUTZER (gelegentliche Nutzer)
+- Gelegenheits-Planer
+  Öffnen die App nur ein paar Mal pro Woche, nutzen Basisfunktionen.
+- Kalender-Fokus-Nutzer
+  Denken zeitbasiert, nutzen die App als Ergänzung zum Kalender.
+- Projekt-orientierte Nutzer
+  Nutzen die App temporär für grössere Schul-/Arbeitsprojekte.
+
+3. SONSTIGE (nicht Hauptzielgruppe, aber real vorhanden)
+- Interessierte Test-Nutzer
+  Installieren → testen → eventuell behalten.
+- Minimalisten
+  Nutzen selten ToDos, brauchen aber manchmal schnelle Erinnerungen oder kurze Notizen.
+
+4. NICHT-NUTZER
+- Bewusste Nicht-Nutzer
+  Organisieren alles im Kopf oder auf Papier, wollen keine App.
+- Technische Pflichtrollen
+  Devs, Support, Admins – gehören nicht zur echten Produktzielgruppe.
