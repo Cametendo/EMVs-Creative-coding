@@ -1,7 +1,7 @@
 let myData;
 
 function preload() {
-  myData = loadStrings("onepiece.txt");
+  myData = loadStrings("shakespere.txt");
 }
 
 function setup() {
