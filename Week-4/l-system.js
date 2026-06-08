@@ -5,8 +5,8 @@ let len = 100;
 let rules = [];
 rules[0] = {
   a: "F",
-  // b: "FF-[-F-F-F]+[+F+F+F]",
-  c: "FF*[*F/F/F]/[/F*F*F]",
+  b: "FF-[-F-F-F]+[+F+F+F]FF*[*F/F/F]/[/F*F*F]FF*[*F/F/F]/[/F*F*F]FF-[-F-F-F]+[+F+F+F]FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+  // c: "FF*[*F/F/F]/[/F*F*F]",
 };
 
 function generate() {
@@ -27,7 +27,7 @@ function generate() {
     }
   }
   sentence = nextSentence;
-  createP(sentence);
+  // createP(sentence);
   turtle();
 }
 

@@ -1,0 +1,109 @@
+The Last Cartographer
+
+There are no more blank spaces on the map. That's what they told Mirela when she was hired, and it turned out to be almost entirely false.
+
+She had taken the job at the Institute for Geographical Memory because the salary was decent and the building had good light. The Institute was a strange place — part archive, part museum, part bureaucratic maze. Its hallways were lined with framed maps from every century, and the air smelled permanently of old paper and pencil graphite, as if cartography itself had a scent.
+
+Her title was Cartographic Analyst, which mostly meant she sat in front of a computer comparing satellite data to historical records, looking for discrepancies. The work was tedious in the best way: quiet, precise, and occasionally surprising. You could spend an entire morning matching road names from a 1947 survey to current street layouts and find nothing. Then in the afternoon, some small thing — a misaligned river bend, a neighborhood that didn't exist in any official record — would make the whole day worth it.
+
+The blank spaces, it turned out, were everywhere. They were just very small.
+
+Mirela discovered the first one in October. She was cross-referencing land parcel data in the eastern part of the city, a dense residential district that had been rezoned twice in twenty years, when she noticed a lot with no assigned ID number. Not an error — just absence. The surrounding parcels had their numbers, their owners, their tax histories. This one had nothing. No name, no classification, not even the notation of "undeveloped land" that the city used as a catch-all for anything it hadn't gotten around to processing yet.
+
+She flagged it, wrote up a note, and moved on. Standard procedure.
+
+The note came back three days later with a stamp that read: REVIEWED — NO ACTION REQUIRED.
+
+That should have been the end of it. Mirela was not by nature a person who pushed against official conclusions. She recycled, she paid her bills on time, she returned library books before the due date. She was, she had always assumed, a person who trusted systems to work the way they were supposed to.
+
+But she had looked at that parcel. She had seen the gap in the data. And the gap had a shape — roughly rectangular, about forty meters by sixty, sitting between a hardware store and a row of townhouses she'd driven past a hundred times. It was not nothing. It was a very specific, very deliberate kind of nothing.
+
+She printed the map coordinates on a piece of paper, folded it into her jacket pocket, and took the long way home.
+
+---
+
+The lot was real.
+
+That sounds obvious, but it wasn't. Data gaps could mean a lot of things: corrupted files, bureaucratic lag, a property that had changed hands so many times that its records had fragmented across three different municipal databases and never been reconciled. Mirela had seen all of that before. Usually the physical reality matched the record: empty lot, chain-link fence, maybe a mattress someone had dumped.
+
+This lot had a gate. Not a chain-link fence — an actual wrought-iron gate, painted black, attached to a stone wall that was maybe a meter and a half high. The wall ran along the side of the hardware store and the back of the townhouses. There were no signs. No posted hours, no warnings, no indications of ownership.
+
+Through the bars of the gate she could see a garden.
+
+It was not a neglected garden, full of weeds and collapsed structure. It was maintained — visibly, actively, recently maintained. There were raised beds with winter vegetables, a gravel path that curved toward the center of the lot, a small wooden bench, and several large clay pots with bare-branched shrubs that had been cut back for the season. In the far corner there was a tool shed, and through its small window she could see the orange handle of a watering can.
+
+Someone came here. Someone grew things here. Someone had, at some point, decided that this forty-meter-by-sixty-meter rectangle of earth in the middle of a dense city grid would not have a parcel number, would not appear in municipal records, would not show up in any database that a cartographic analyst at the Institute for Geographical Memory might be asked to review.
+
+Mirela stood at the gate for a long time, her breath making small clouds in the October air. Then she walked home and made dinner and thought about it until she fell asleep.
+
+---
+
+She went back four more times before she talked to anyone.
+
+The second time, she brought a notepad and sketched the dimensions of the wall as best she could, pacing along the outside edge. The third time, she arrived early in the morning and waited, watching, for almost an hour, and saw no one. The fourth time, it was raining, and she stood under an umbrella and felt slightly absurd but didn't leave. The fifth time, the gate was open.
+
+Not open as in unlocked. Open as in swung wide, propped with a brick, with clear evidence that whoever used this garden was currently using it. There was a wheelbarrow parked halfway along the gravel path, loaded with soil. A pair of gardening gloves sat on top.
+
+Mirela stood in the open gateway and called out, "Hello?"
+
+A woman emerged from behind the tool shed. She was in her sixties, wearing a canvas jacket and practical boots, with gray hair cut short and a face that was well-weathered in a way that suggested outdoor work rather than hard living. She did not look surprised to see Mirela. She looked, if anything, faintly resigned.
+
+"You're from the Institute," the woman said.
+
+Mirela blinked. "How did you know?"
+
+"You came four times before you came in." The woman pulled off her gardening gloves. "That's an Institute approach. You document before you engage. Very methodical."
+
+"I'm sorry — I wasn't trying to be strange about it."
+
+"No, it's fine." The woman gestured at the bench. "Sit down if you want. I'll make tea. I usually have tea around this time."
+
+Her name was Sofija. She had been maintaining the garden for eleven years. Before her, her mother had kept it for thirty years, and before that, someone else, and before that, someone else again. She didn't know how far back it went. The documents — and there were documents, a battered ledger kept in a waterproof box in the shed — went back to 1961, but the wall itself was older than that.
+
+"It's not on any map," Mirela said, wrapping both hands around her tea mug.
+
+"No," Sofija agreed.
+
+"How?"
+
+Sofija looked at her with an expression that was patient and just slightly amused. "You work at the Institute. You know how maps work. Someone has to make the decision to put something on them."
+
+"But someone also has to make the decision not to."
+
+"Yes." Sofija looked out at the garden, at the raised beds, at the bare-branched shrubs. "That's the harder thing to do, actually. It's much easier to put things on maps than to keep them off. Things want to be recorded. Data accumulates. You have to be very deliberate about absence."
+
+Mirela thought about the stamp on her note. REVIEWED — NO ACTION REQUIRED. Someone at the Institute knew. Someone had always known, and had made the decision, generation after generation of bureaucratic review, to keep making the stamp.
+
+"Why?" she asked.
+
+Sofija was quiet for a moment, watching a sparrow land on the edge of one of the raised beds, peck at something, and fly away.
+
+"There used to be more of them," she said finally. "Gardens like this. Places that weren't on any record. Not hidden, exactly — just unregistered. Unmapped. The city grew up around them and most of them got absorbed eventually, got assigned parcel numbers and sold and built over. This one is the last one I know of." She paused. "Maybe there are others I don't know about."
+
+"What happens to it? When—" Mirela hesitated. "When you can't take care of it anymore."
+
+"I'll find someone," Sofija said simply. "Someone who understands what it is. Someone who won't ask to have it registered." She looked at Mirela steadily. "What are you going to do?"
+
+Mirela thought about the note she had written. About the stamp. About the job she had taken because the salary was decent and the building had good light, and about all the maps on all the walls in all the hallways, every blank space eventually filled in by someone with a pencil and a need to make things legible.
+
+"Nothing," she said.
+
+Sofija nodded, as if this was the answer she had expected, or the answer she had hoped for, or both.
+
+"Drink your tea," she said. "It'll get cold."
+
+---
+
+That winter Mirela learned which vegetables grew well in raised beds in partial shade. She learned how to prune shrubs for winter dormancy, how to amend clay-heavy soil with grit, when to water and when not to. She learned to read the sky the way that gardeners do, with attention to the quality of light rather than its presence or absence.
+
+She never wrote up a second report. She never mentioned the garden to anyone at the Institute. Sometimes, reviewing data, she would come across something that looked like another absence — a gap in the records, a lot with no number, a space that didn't officially exist — and she would make a note on a piece of paper and put it in her jacket pocket and take the long way home.
+
+Some of them were just data errors. Most of them were just data errors.
+
+But not all of them.
+
+The world, it turned out, was full of blank spaces. You just had to know how to look for them, and then you had to know what to do when you found them: which was, most of the time, nothing at all. Just stand there. Just see it. Just let it be a thing that exists outside of any record, tended by someone who understands that not everything that matters needs to be on the map.
+
+That is its own kind of cartography, Mirela thought. The careful mapping of what not to map.
+
+She thought it was probably the most important kind.

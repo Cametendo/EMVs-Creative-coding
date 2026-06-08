@@ -47,7 +47,6 @@ function draw() {
   }
 
   // Connect to the first poing again
-  // or use endShape(CLOSE); but result is different
   curveVertex(x[0] + centerX, y[0] + centerY);
 
   // end controlPoint
