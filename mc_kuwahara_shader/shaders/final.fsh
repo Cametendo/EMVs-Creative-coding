@@ -13,7 +13,7 @@ out vec4 fragColor;
 //   RADIUS 36, STEP 4 → 400  samples/pixel (~14x faster)
 //   RADIUS 16, STEP 2 → 324  samples/pixel (smaller brush, fast)
 #define RADIUS 36
-#define STEP 3
+#define STEP 1
 
 vec3 kuwahara_region(vec2 uv, vec2 ts, int x0, int x1, int y0, int y1, out float outVariance) {
     vec3 colorSum = vec3(0.0);

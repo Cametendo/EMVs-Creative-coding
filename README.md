@@ -62,6 +62,6 @@ Note: It is not recommend to play this shader with integrated graphics (in fulls
 
 - Nvidia: GTX 750 Ti
 - AMD: RX 460
-- Intel: UHD
+- Intel: UHD (in windowed mode)
 
 If you do need to change the settings because of FPS, go to `/mc_kuwahara_shader/shaders/final.fsh` and change `STEP` from 3 to 4 (or 3 to 2 or even 3 to 1, if your PC is srong enough ;D)
